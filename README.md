@@ -1,4 +1,4 @@
-# Little MonstR 桌宠小怪兽
+# littleMonstre_deskPet 桌宠小怪兽
 
 一只住在你桌面底部的像素小怪兽。它会提醒你休息、喝水、看看远处，也能当闹钟用。
 
@@ -12,9 +12,9 @@
 
 | 系统 | 下载文件 |
 |---|---|
-| Windows 10 / 11（64 位） | `DeskPet-Setup-x.x.x.exe` |
-| Mac（M1/M2/M3 等 Apple 芯片） | `DeskPet-x.x.x-arm64.dmg` |
-| Mac（Intel 芯片） | `DeskPet-x.x.x.dmg` |
+| Windows 10 / 11（64 位） | `littleMonstre_deskPet-Setup-x.x.x.exe` |
+| Mac（M1/M2/M3 等 Apple 芯片） | `littleMonstre_deskPet-x.x.x-arm64.dmg` |
+| Mac（Intel 芯片） | `littleMonstre_deskPet-x.x.x.dmg` |
 
 > 不确定 Mac 是哪种芯片：点左上角苹果图标 → 关于本机，看"芯片"一栏。
 
@@ -23,7 +23,7 @@
 软件暂时没有购买开发者签名，所以第一次打开会有安全提示，这是正常的：
 
 - **Windows**：弹出"Windows 已保护你的电脑" → 点 **更多信息** → **仍要运行**。
-- **Mac**：把 DeskPet 拖进"应用程序"后，**右键** DeskPet → **打开** → 再点 **打开**。之后就能正常双击打开了。
+- **Mac**：把 littleMonstre_deskPet 拖进"应用程序"后，**右键**它 → **打开** → 再点 **打开**。之后就能正常双击打开了。
 
 ## 怎么玩
 

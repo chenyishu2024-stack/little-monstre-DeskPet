@@ -6,7 +6,7 @@
 
 ![小怪兽预览](screenshots/preview.gif)
 
-🎬 宣传片（带音乐）：[中文版](https://github.com/chenyishu2024-stack/little-monstre-DeskPet/releases/latest/download/littleMonstre_deskPet_promo_CN.mp4) · [English](https://github.com/chenyishu2024-stack/little-monstre-DeskPet/releases/latest/download/littleMonstre_deskPet_promo_EN.mp4)
+🎬 宣传片：[中文版](https://github.com/chenyishu2024-stack/little-monstre-DeskPet/releases/latest/download/littleMonstre_deskPet_promo_CN.mp4) · [English](https://github.com/chenyishu2024-stack/little-monstre-DeskPet/releases/latest/download/littleMonstre_deskPet_promo_EN.mp4)
 
 ## 下载
 
